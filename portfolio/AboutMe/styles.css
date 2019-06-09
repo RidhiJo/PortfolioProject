@@ -1,0 +1,23 @@
+p{
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    text-align: justify;
+}
+.heading{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h2{
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    margin: 16px;
+    text-align: justify;
+
+}
