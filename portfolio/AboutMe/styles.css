@@ -108,8 +108,13 @@ footer{
     display: table;
   }
 
-  .row {
+  .row{
     display: inline-block;
+    text-align: justify;
+  }
+  .card-body{
+
+  text-align: left;
   }
   
   .column {
