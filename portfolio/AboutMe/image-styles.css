@@ -7,3 +7,11 @@
     background-position: center !important;
     background-size: cover !important;
 }
+
+.media{
+   width:  30px;
+   height:  30px;
+   font-weight:  300;
+   font-size:  30px;
+   text-align: center;
+}
