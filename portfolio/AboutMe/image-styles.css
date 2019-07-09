@@ -14,4 +14,23 @@
    font-weight:  300;
    font-size:  30px;
    text-align: center;
+   list-style: none;
+   
 }
+
+.fa {
+  padding: 50px;
+  font-size: 30px;
+  width: 70px;
+  text-decoration: none;
+  border-radius: 50%;
+  list-style: none;
+  display: inline;
+  text-align: center;
+  display: flex;
+   justify-content: center;
+}
+
+
+
+
