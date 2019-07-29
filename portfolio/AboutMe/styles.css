@@ -159,4 +159,18 @@ footer{
     justify-content: center !important;
     }
 
+    #social-icons p{
+
+      font-size: 2em;
+      display:block;
+      padding-right: 0.5em;
+      box-sizing: border-box;
+      
+      }
+      
+div.row{
+  font: 14px;
+  margin: 0px-15px;
+}      
+
   
