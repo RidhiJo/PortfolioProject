@@ -7,3 +7,6 @@ h1{
     font-size: 100%;
 }
 
+.card{
+    flex:auto;
+}
