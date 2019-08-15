@@ -1,10 +1,34 @@
-@media (min-width: 768px) {
-    .container{
-      background-image: url(...); /* use background image on larger screens */
-      font-size: 18px; /* increase font size to 18 pixels on larger screens */
-    }
+
   
     .mobile-call-icon {
       display: none; /* hide mobile call icon */
     }
-}
+   
+      .container {
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        }
+        
+        @media(min-width:768px) {
+            .container {
+                width: 750px;
+        
+            }
+        }
+        
+        @media(min-width:992px) {
+            .container {
+                width: 970px;
+        
+            }
+        
+        }
+        
+        @media(min-width:1200px) {
+            .container {
+                width: 1170px;
+        
+            }
+        }
