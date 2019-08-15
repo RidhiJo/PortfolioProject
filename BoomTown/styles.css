@@ -6,8 +6,17 @@
 
     @media(min-width:300px)
 {
-  body{
-    width: 25rem;
+  .container{
+    box-sizing: border-box;
+    font-size: 5rem;
+  }
+}
+
+@media(min-width:300px)
+{
+  .row{
+    display:flex;
+    font-size: 5rem;
   }
 }
 
