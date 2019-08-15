@@ -33,7 +33,7 @@ font-style: normal;
 .body{
   flex:auto;
 }
-@media(min-width:300px)
+@media(max-width:300px)
 {
   body{
     width: 25rem;
@@ -47,7 +47,7 @@ font-style: normal;
   }
 }
 
-@media(min-width:1200px)
+@media(min-width:1300px)
 {
   body{
     width: 100rem;
