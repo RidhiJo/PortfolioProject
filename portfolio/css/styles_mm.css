@@ -43,35 +43,4 @@
 
     }
 
-    .container {
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 0.5em;
-        padding-right: 0.5em;
-        }
-        .card{
-            flex: auto;
-        }
-        
-        @media(max-width:300px)
-        {
-          body{
-            width: 25rem;
-          }
-        }
-        
-        @media(min-width:800px)
-        {
-          body{
-            width: 78rem;
-          }
-        }
-        
-        @media(min-width:1300px)
-        {
-          body{
-            width: 100rem;
-          }
-        }
-        
-        
+    

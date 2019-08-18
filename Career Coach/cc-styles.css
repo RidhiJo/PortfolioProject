@@ -30,33 +30,26 @@ font-style: normal;
     width:400px;
     height: auto;
 }
-.body{
-  flex:auto;
-}
-@media(max-width:300px)
-{
-  body{
-    width: 25rem;
-  }
+
+@media(max-width:768px) {
+    .container {
+        width: 750px;
+
+    }
 }
 
-@media(min-width:800px)
-{
-  body{
-    width: 78rem;
-  }
+@media(max-width:992px) {
+    .container {
+        width: 970px;
+
+    }
+
 }
 
-@media(min-width:1300px)
-{
-  body{
-    width: 100rem;
-  }
+@media(max-width:1200px) {
+    .container {
+        width: 1170px;
+
+    }
 }
-
-
-  
-   
-   
-    
     
