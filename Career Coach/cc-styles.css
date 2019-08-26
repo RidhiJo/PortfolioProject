@@ -21,6 +21,14 @@ font-style: normal;
     box-sizing: border-box;
 }
 
+.card-text{
+    box-sizing: border-box;
+}
+
+.container{
+    box-sizing: border-box;
+}
+
 .feelings-img{
 
     width: 300px;
@@ -38,19 +46,19 @@ font-style: normal;
 
 @media(min-width:300px){
     .card{
-        width: 52rem;
+        width: 50rem;
     }
 }
 
 @media(min-width:768px) {
-    .card {
+    .card{
         width: 750px;
 
     }
 }
 
 @media(min-width:992px) {
-    .card {
+    .card{
         width: 970px;
 
     }
@@ -62,6 +70,7 @@ font-style: normal;
         width: 1170px;
 
     }
+}
 
     @media(min-width:768px) {
         .ytp-cued-thumbnail-overlay-image {
@@ -134,38 +143,6 @@ font-style: normal;
         }
 }
 
-
-
-    @media(min-width:768px) {
-        .ytp-cued-thumbnail-overlay-image {
-            width: 100%;
-            height: 100;
-            position: absolute;
-    
-        }
-    }
-    
-    @media(min-width:992px) {
-        .ytp-cued-thumbnail-overlay-image {
-            width: 100%;
-            height: 100;
-            position:absolute;
-    
-        }
-    
-    }
-    
-    @media(min-width:1200px) {
-        .ytp-cued-thumbnail-overlay-image{
-            width: 100%;
-            height: 100;
-            position:absolute;
-    
-        }
-}
-
-
-}
 
 
     
