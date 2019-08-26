@@ -8,5 +8,5 @@ h1{
 }
 
 .card{
-    flex:auto;
+    box-sizing: border-box;
 }
