@@ -10,3 +10,9 @@ h1{
 .card{
     box-sizing: border-box;
 }
+
+.card-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
